@@ -1,14 +1,12 @@
 ---
 permalink: /about/
-title: "이것저것 해보는 블로그"
+title: "이것저것 도전해보는 블로그"
 layout: single
 ---
 
 ## About
 
-- 👩🏻 iOS Developer
-- 🌱 Swift, Objective-C ...
-- 🌿 currently learning SwiftUI
+- 👩🏻 Data analyst
+- 🌱 Python, SQL ...
 
-- ⚡ Tistory: https://choi-log-life.tistory.com/ (github.io로 이전중 ⏩⏩⏩)
-- ⚡ github pages: https://eunjoochoi.github.io/
+- ⚡ github pages: https://jiyeoneom1.github.io/
